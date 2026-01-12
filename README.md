@@ -1,5 +1,5 @@
 # 💫 About Me:
-😄 Pronouns: He/His<br>🔭 I’m currently building Data Unification Product.<br>🌱 I’m currently learning more about Machine Learing & LLM.<br>👯 Expertise in building SaaS , PaaS, IaaS, Full stack application, Low Code Platform , ERP , Ticket Management<br>💬 Ask me about Product Development , Cloud Services, PaaS, SaaS or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>
+😄 Pronouns: He/His<br>🔭 I’m currently building Data Unification Product.<br>🌱 I’m currently architecting autonomous agents and fine-tuning the next generation of AI coding models. Bridging the gap between high-level AI research and production-grade cloud infrastructure..<br>👯 Expertise in building LLM Fine tuning ( SFT & RLHF),  SaaS , PaaS, IaaS, Full stack application, Low Code Platform , ERP , Ticket Management<br>💬 Ask me about Product Development , Cloud Services, PaaS, SaaS or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>
 
 
 ## 🌐 Socials:
